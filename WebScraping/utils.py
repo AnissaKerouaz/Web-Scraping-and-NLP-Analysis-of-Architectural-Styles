@@ -2,7 +2,7 @@ import logging
 import argparse
 import os
 
-def setup(loggingfile="logging.log", name="scraper"):
+def setup(loggingfile="logging.log", name=__name__):
     logger = logging.getLogger(name)
     logger.setLevel(logging.INFO)
 
@@ -12,13 +12,16 @@ def setup(loggingfile="logging.log", name="scraper"):
         ch.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
         logger.addHandler(ch)
 
-        os.makedirs("data", exist_ok=True)
-        fh = logging.FileHandler(os.path.join("data", loggingfile))
+        log_directory = os.path.join("data", "log")
+        os.makedirs(log_directory, exist_ok=True)
+        
+        fh = logging.FileHandler(os.path.join(log_directory, loggingfile))
         fh.setLevel(logging.INFO)
         fh.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
         logger.addHandler(fh)
 
     return logger
+
 
 def get_args():
     parser = argparse.ArgumentParser(description="Scrape Wikipedia category pages")

@@ -1,0 +1,199 @@
+2025-10-19 09:53:16,682 - INFO - loading the titles from data/architectural_styles_pages.csv
+2025-10-19 09:53:16,757 - INFO - fetching : Architectural style
+2025-10-19 09:53:18,414 - INFO - fetching : List of architectural styles
+2025-10-19 09:53:19,890 - INFO - fetching : Timeline of architectural styles
+2025-10-19 09:53:20,729 - INFO - fetching : Adam style
+2025-10-19 09:53:21,744 - INFO - fetching : Aerospace architecture
+2025-10-19 09:53:22,871 - INFO - fetching : Aldwych Farcical
+2025-10-19 09:53:24,127 - INFO - fetching : American Empire style
+2025-10-19 09:53:25,039 - INFO - fetching : Amsterdam School
+2025-10-19 09:53:26,243 - INFO - fetching : Ancient Chinese wooden architecture
+2025-10-19 09:53:27,470 - INFO - fetching : Architectural school of Nakhchivan
+2025-10-19 09:53:28,957 - INFO - fetching : Architecture terrible
+2025-10-19 09:53:30,053 - INFO - fetching : Arts and Crafts movement
+2025-10-19 09:53:31,700 - INFO - fetching : Asturian architecture
+2025-10-19 09:53:33,014 - INFO - fetching : Australian architectural styles
+2025-10-19 09:53:33,892 - INFO - fetching : Australian non-residential architectural styles
+2025-10-19 09:53:35,584 - INFO - fetching : Aztec architecture
+2025-10-19 09:53:37,478 - INFO - fetching : Badami cave temples
+2025-10-19 09:53:38,859 - INFO - fetching : Baroque architecture
+2025-10-19 09:53:40,577 - INFO - fetching : Batak architecture
+2025-10-19 09:53:41,702 - INFO - fetching : Battle of the Styles
+2025-10-19 09:53:43,014 - INFO - fetching : Biedermeier
+2025-10-19 09:53:44,389 - INFO - fetching : Boom style architecture
+2025-10-19 09:53:45,426 - INFO - fetching : Bossche School
+2025-10-19 09:53:46,330 - INFO - fetching : Brabantine Gothic
+2025-10-19 09:53:47,429 - INFO - fetching : Brick Expressionism
+2025-10-19 09:53:48,344 - INFO - fetching : Building Act 1774
+2025-10-19 09:53:49,777 - INFO - fetching : Burnham Baroque
+2025-10-19 09:53:51,339 - INFO - fetching : By-pass Variegated
+2025-10-19 09:53:52,578 - INFO - fetching : Byzantine architecture
+2025-10-19 09:53:54,019 - INFO - fetching : Caihua
+2025-10-19 09:53:55,685 - INFO - fetching : Cape Dutch architecture
+2025-10-19 09:53:56,817 - INFO - fetching : Caprom
+2025-10-19 09:53:58,623 - INFO - fetching : Carolingian architecture
+2025-10-19 09:53:59,521 - INFO - fetching : Cas di torto
+2025-10-19 09:54:01,383 - INFO - fetching : Chilotan architecture
+2025-10-19 09:54:02,506 - INFO - fetching : Chinese architecture
+2025-10-19 09:54:04,009 - INFO - fetching : Church architecture
+2025-10-19 09:54:05,097 - INFO - fetching : Colonial architecture
+2025-10-19 09:54:06,437 - INFO - fetching : Conch house
+2025-10-19 09:54:07,481 - INFO - fetching : Construction of Gothic cathedrals
+2025-10-19 09:54:08,955 - INFO - fetching : Constructivism (art)
+2025-10-19 09:54:10,295 - INFO - fetching : Constructivist architecture
+2025-10-19 09:54:11,542 - INFO - fetching : Contemporary architecture
+2025-10-19 09:54:13,000 - INFO - fetching : Coptic architecture
+2025-10-19 09:54:14,000 - INFO - fetching : Cosmatesque
+2025-10-19 09:54:14,960 - INFO - fetching : Cottage window
+2025-10-19 09:54:15,912 - INFO - fetching : Dancheong
+2025-10-19 09:54:17,103 - INFO - fetching : Danish design
+2025-10-19 09:54:18,145 - INFO - fetching : Dingbat (building)
+2025-10-19 09:54:19,318 - INFO - fetching : Directoire style
+2025-10-19 09:54:20,184 - INFO - fetching : Dissenting Gothic
+2025-10-19 09:54:21,461 - INFO - fetching : Dreiseithof
+2025-10-19 09:54:22,510 - INFO - fetching : Dutch Baroque architecture
+2025-10-19 09:54:23,502 - INFO - fetching : Dutch brick
+2025-10-19 09:54:24,647 - INFO - fetching : Dutch colonial architecture
+2025-10-19 09:54:25,877 - INFO - fetching : Dutch Colonial Revival architecture
+2025-10-19 09:54:27,026 - INFO - fetching : Dzong architecture
+2025-10-19 09:54:28,052 - INFO - fetching : East Coast of Quintana Roo
+2025-10-19 09:54:29,434 - INFO - fetching : Eclecticism in architecture
+2025-10-19 09:54:30,601 - INFO - fetching : Eclecticism in art
+2025-10-19 09:54:31,816 - INFO - fetching : Egyptian Revival architecture
+2025-10-19 09:54:32,922 - INFO - fetching : Elizabethan architecture
+2025-10-19 09:54:34,061 - INFO - fetching : Empire style
+2025-10-19 09:54:34,928 - INFO - fetching : Expressionist Rococo
+2025-10-19 09:54:36,191 - INFO - fetching : Fachwerk
+2025-10-19 09:54:38,380 - INFO - fetching : Fantastic architecture
+2025-10-19 09:54:39,846 - INFO - fetching : Federation architecture
+2025-10-19 09:54:41,035 - INFO - fetching : Ferme ornée
+2025-10-19 09:54:41,949 - INFO - fetching : Ferrovitreous
+2025-10-19 09:54:43,106 - INFO - fetching : First national architectural movement
+2025-10-19 09:54:44,250 - INFO - fetching : First Romanesque
+2025-10-19 09:54:45,195 - INFO - fetching : French Gothic architecture
+2025-10-19 09:54:46,458 - INFO - fetching : French Provincial architecture
+2025-10-19 09:54:47,855 - INFO - fetching : French Restoration style
+2025-10-19 09:54:48,735 - INFO - fetching : Georgian architecture
+2025-10-19 09:54:49,839 - INFO - fetching : Gothic architecture
+2025-10-19 09:54:51,908 - INFO - fetching : Influences upon Gothic architecture
+2025-10-19 09:54:53,435 - INFO - fetching : Gothic Revival architecture
+2025-10-19 09:54:55,530 - INFO - fetching : Goût grec
+2025-10-19 09:54:56,617 - INFO - fetching : Goût Rothschild
+2025-10-19 09:54:57,398 - INFO - fetching : Greek Revival architecture
+2025-10-19 09:54:58,522 - INFO - fetching : Greek Revival architecture in North America
+2025-10-19 09:55:00,203 - INFO - fetching : Gründerzeit
+2025-10-19 09:55:01,209 - INFO - fetching : Guerrilla architecture
+2025-10-19 09:55:02,489 - INFO - fetching : Heimatschutz Architecture
+2025-10-19 09:55:03,627 - INFO - fetching : Heimatstil
+2025-10-19 09:55:04,437 - INFO - fetching : Henry II style
+2025-10-19 09:55:05,702 - INFO - fetching : Henry IV style
+2025-10-19 09:55:06,821 - INFO - fetching : Herodian architecture
+2025-10-19 09:55:08,437 - INFO - fetching : Herrerian style
+2025-10-19 09:55:09,531 - INFO - fetching : Hexi Caihua
+2025-10-19 09:55:11,070 - INFO - fetching : Inca architecture
+2025-10-19 09:55:12,885 - INFO - fetching : Inca kancha
+2025-10-19 09:55:14,001 - INFO - fetching : Indian rock-cut architecture
+2025-10-19 09:55:15,349 - INFO - fetching : Indies Empire style
+2025-10-19 09:55:17,079 - INFO - fetching : Indo-Islamic architecture
+2025-10-19 09:55:18,346 - INFO - fetching : Italian Baroque architecture
+2025-10-19 09:55:19,703 - INFO - fetching : Italian Neoclassical architecture
+2025-10-19 09:55:20,903 - INFO - fetching : Jacobean architecture
+2025-10-19 09:55:21,871 - INFO - fetching : Jacobethan
+2025-10-19 09:55:22,808 - INFO - fetching : Japanese-Western Eclectic Architecture
+2025-10-19 09:55:23,735 - INFO - fetching : Jeffersonian architecture
+2025-10-19 09:55:25,445 - INFO - fetching : Jengki style
+2025-10-19 09:55:26,631 - INFO - fetching : Jewish architecture
+2025-10-19 09:55:27,607 - INFO - fetching : Kadamba architecture
+2025-10-19 09:55:28,641 - INFO - fetching : Kaduna State
+2025-10-19 09:55:29,838 - INFO - fetching : Laimes
+2025-10-19 09:55:30,964 - INFO - fetching : Landshövdingehus
+2025-10-19 09:55:32,642 - INFO - fetching : The Leeds Look
+2025-10-19 09:55:33,903 - INFO - fetching : Lombard architecture
+2025-10-19 09:55:35,405 - INFO - fetching : Louis Philippe style
+2025-10-19 09:55:36,753 - INFO - fetching : Louis XIV style
+2025-10-19 09:55:38,050 - INFO - fetching : Louis XV style
+2025-10-19 09:55:38,912 - INFO - fetching : Louis XVI style
+2025-10-19 09:55:39,965 - INFO - fetching : Mannerism
+2025-10-19 09:55:41,679 - INFO - fetching : Manueline
+2025-10-19 09:55:42,671 - INFO - fetching : Mayan Revival architecture
+2025-10-19 09:55:45,112 - INFO - fetching : Merovingian art and architecture
+2025-10-19 09:55:46,608 - INFO - fetching : Mesoamerican architecture
+2025-10-19 09:55:48,417 - INFO - fetching : Mesoamerican pyramids
+2025-10-19 09:55:50,273 - INFO - fetching : Metabolism (architecture)
+2025-10-19 09:55:51,574 - INFO - fetching : Modernism
+2025-10-19 09:55:55,072 - INFO - fetching : Modernisme
+2025-10-19 09:55:56,605 - INFO - fetching : Moorish architecture
+2025-10-19 09:55:59,618 - INFO - fetching : Mudéjar art
+2025-10-19 09:56:01,306 - INFO - fetching : Nazi architecture
+2025-10-19 09:56:03,323 - INFO - fetching : Neoclásico Isabelino
+2025-10-19 09:56:04,456 - INFO - fetching : Neoclassical architecture
+2025-10-19 09:56:05,829 - INFO - fetching : Neoclassicism in France
+2025-10-19 09:56:07,062 - INFO - fetching : New Hague School (architecture)
+2025-10-19 09:56:08,093 - INFO - fetching : New Khmer Architecture
+2025-10-19 09:56:08,889 - INFO - fetching : New Mexico vernacular
+2025-10-19 09:56:09,954 - INFO - fetching : Newar architecture
+2025-10-19 09:56:11,660 - INFO - fetching : Noucentisme
+2025-10-19 09:56:13,360 - INFO - fetching : Omo sebua
+2025-10-19 09:56:14,824 - INFO - fetching : Open building
+2025-10-19 09:56:16,077 - INFO - fetching : Ornamentalism (architecture)
+2025-10-19 09:56:17,123 - INFO - fetching : Ottoman architecture
+2025-10-19 09:56:19,484 - INFO - fetching : Ottonian architecture
+2025-10-19 09:56:20,309 - INFO - fetching : Palazzo style architecture
+2025-10-19 09:56:21,509 - INFO - fetching : Palladian architecture
+2025-10-19 09:56:24,398 - INFO - fetching : Phallic architecture
+2025-10-19 09:56:26,731 - INFO - fetching : Plantagenet style
+2025-10-19 09:56:28,053 - INFO - fetching : Plateresque
+2025-10-19 09:56:28,950 - INFO - fetching : Polite architecture
+2025-10-19 09:56:30,145 - INFO - fetching : Pombaline style
+2025-10-19 09:56:30,956 - INFO - fetching : Ponce Creole
+2025-10-19 09:56:32,359 - INFO - fetching : Pont Street Dutch
+2025-10-19 09:56:33,458 - INFO - fetching : Português Suave architecture
+2025-10-19 09:56:35,223 - INFO - fetching : Portuguese colonial architecture
+2025-10-19 09:56:36,674 - INFO - fetching : Portuguese Plain Style architecture
+2025-10-19 09:56:38,015 - INFO - fetching : Portuguese Romanesque architecture
+2025-10-19 09:56:41,572 - INFO - fetching : Postconstructivism
+2025-10-19 09:56:42,692 - INFO - fetching : Puuc
+2025-10-19 09:56:44,072 - INFO - fetching : Queenslander (architecture)
+2025-10-19 09:56:45,238 - INFO - fetching : Remodernism
+2025-10-19 09:56:47,531 - INFO - fetching : Renaissance architecture
+2025-10-19 09:56:49,026 - INFO - fetching : Retrofuturism
+2025-10-19 09:56:50,567 - INFO - fetching : Revivalism (architecture)
+2025-10-19 09:56:51,602 - INFO - fetching : Ribbon window
+2025-10-19 09:56:52,640 - INFO - fetching : Romanesque architecture
+2025-10-19 09:56:54,745 - INFO - fetching : List of regional characteristics of Romanesque churches
+2025-10-19 09:56:56,627 - INFO - fetching : Romanian Revival architecture
+2025-10-19 09:56:57,572 - INFO - fetching : Rundbogenstil
+2025-10-19 09:56:58,696 - INFO - fetching : Russian Baroque
+2025-10-19 09:56:59,598 - INFO - fetching : Rustic architecture
+2025-10-19 09:57:00,677 - INFO - fetching : Sand Hills cottage architecture
+2025-10-19 09:57:01,606 - INFO - fetching : Schinkel school
+2025-10-19 09:57:02,867 - INFO - fetching : Scottish Vernacular
+2025-10-19 09:57:03,999 - INFO - fetching : Second Empire style
+2025-10-19 09:57:05,231 - INFO - fetching : Shoebox style
+2025-10-19 09:57:06,361 - INFO - fetching : Side passage plan architecture
+2025-10-19 09:57:07,859 - INFO - fetching : Sikh architecture
+2025-10-19 09:57:09,382 - INFO - fetching : Single- and double-pen architecture
+2025-10-19 09:57:10,641 - INFO - fetching : Sino-Portuguese architecture
+2025-10-19 09:57:11,662 - INFO - fetching : Slow architecture
+2025-10-19 09:57:13,445 - INFO - fetching : Songhai architecture
+2025-10-19 09:57:14,809 - INFO - fetching : Southern French Gothic
+2025-10-19 09:57:17,026 - INFO - fetching : Spa architecture
+2025-10-19 09:57:18,333 - INFO - fetching : Spanish Colonial architecture
+2025-10-19 09:57:20,734 - INFO - fetching : De Stijl
+2025-10-19 09:57:22,547 - INFO - fetching : Stile Littorio
+2025-10-19 09:57:23,785 - INFO - fetching : Stockbroker's Tudor
+2025-10-19 09:57:25,263 - INFO - fetching : Strawberry Hill Gothic
+2025-10-19 09:57:26,886 - INFO - fetching : Sudano-Sahelian architecture
+2025-10-19 09:57:27,865 - INFO - fetching : Suspended structure
+2025-10-19 09:57:29,043 - INFO - fetching : Swahili architecture
+2025-10-19 09:57:30,234 - INFO - fetching : Swiss chalet style
+2025-10-19 09:57:31,411 - INFO - fetching : Traditional architecture
+2025-10-19 09:57:32,523 - INFO - fetching : Traditionalist School (architecture)
+2025-10-19 09:57:33,432 - INFO - fetching : Tudor architecture
+2025-10-19 09:57:34,739 - INFO - fetching : Vancouver special
+2025-10-19 09:57:35,582 - INFO - fetching : Visionary architecture
+2025-10-19 09:57:36,762 - INFO - fetching : Wedding-cake style
+2025-10-19 09:57:38,544 - INFO - fetching : Western false front architecture
+2025-10-19 09:57:39,565 - INFO - fetching : Wooden synagogues in the Polish–Lithuanian Commonwealth
+2025-10-19 09:57:41,062 - INFO - fetching : Zoomorphic architecture
+2025-10-19 09:57:42,922 - INFO - saved full articles to data/architectural_styles_full.parquet (197 rows)

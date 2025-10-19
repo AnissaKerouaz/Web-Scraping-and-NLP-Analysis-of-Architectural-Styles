@@ -1,17 +1,17 @@
 import pandas as pd
 import re
 import nltk
-import logging
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-from WebScraping.config import output_files 
+from WebScraping.utils import setup  , get_args 
+from prefect import task 
 
 nltk.download("punkt")
 nltk.download("stopwords")
 nltk.download("wordnet")
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
-logger = logging.getLogger(__name__)
+
+logger = setup(loggingfile="logging.log", name=__name__)
 
 def clean_text(text):
     if pd.isna(text) or not isinstance(text, str):
@@ -31,16 +31,18 @@ def clean_text(text):
 
     return " ".join(tokens)
 
+@task
 def clean_parquet(input_path, output_path):
     logger.info(f"Loading full text Parquet from {input_path}...")
-    df = pd.read_parquet(f"data/{input_path}")
+    df = pd.read_parquet(f"{input_path}")
 
-    logger.info("Cleaning texts...")
+    logger.info("cleaning the texts")
     df["Cleaned_Text"] = df["Text"].apply(clean_text)
 
-    logger.info(f"Saving cleaned dataset to {output_path}...")
-    df.to_parquet(f"data/{output_path}", index=False)
-    logger.info(f"Done! Cleaned dataset has {len(df)} rows.")
+    logger.info(f"saving data to {output_path}...")
+    df.to_parquet(f"{output_path}", index=False)
+    logger.info(f"data has {len(df)} rows.")
 
 if __name__ == "__main__":
-    clean_parquet(output_files["full_text_output"], output_files["clean_output"])
+    args = get_args()
+    clean_parquet(args.start_url, args.output_file)
