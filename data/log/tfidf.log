@@ -1,4 +1,0 @@
-2025-10-19 09:57:52,190 - INFO - loading cleaned text from data/architectural_styles_clean.parquet
-2025-10-19 09:57:52,234 - INFO - computing tfidf (top 1000 terms)
-2025-10-19 09:57:52,544 - INFO - saving tfidf matrix to data/architectural_styles_tfidf.parquet
-2025-10-19 09:57:53,023 - INFO - tfidf had 197 rows and 1000 features

@@ -1,6 +1,0 @@
-2025-10-19 09:53:14,375 - INFO - Scraping category page: https://en.wikipedia.org/wiki/Category:Architectural_styles
-2025-10-19 09:53:16,081 - INFO - articles collected: 197
-2025-10-19 09:57:43,422 - INFO - Loading full text Parquet from data/architectural_styles_full.parquet...
-2025-10-19 09:57:44,147 - INFO - cleaning the texts
-2025-10-19 09:57:51,668 - INFO - saving data to data/architectural_styles_clean.parquet...
-2025-10-19 09:57:51,706 - INFO - data has 197 rows.
